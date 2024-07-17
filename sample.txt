@@ -1,0 +1,7 @@
+This is a test file that will be feeded to Rover vcs
+
+new sample changes added
+
+some more 
+
+blah blah blah
