@@ -14,4 +14,4 @@
 ## version 0 requirements
 
 <div align = "center">
-<img src = "rover.png" width = full height = full>
+<img src = "static/rover.png" width = full height = full>
