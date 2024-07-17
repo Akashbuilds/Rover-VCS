@@ -1,7 +1,7 @@
 <h1 align="center">Rover -- VCS</h1>
 <br>
 <br>
-<h3 align="center">A custom implementation of git made with javascript</h3>
+<h3 align="center">A customised version control system made with javascript</h3>
 <br>
 <h3 align="left">packages used to make the project</h3>
 <br>
