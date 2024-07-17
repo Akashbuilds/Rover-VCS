@@ -15,3 +15,10 @@
 
 <div align = "center">
 <img src = "static/rover.png" width = full height = full>
+<br>
+<br>
+
+## How it looks on the terminal
+
+<div align = "center">
+<img src = "static/rover_terminal.png" width = full height = full>
